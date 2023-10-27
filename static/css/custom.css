@@ -1,0 +1,80 @@
+﻿@import url(../../earlyaccess/opensanshebrew.css);
+@import url(../../earlyaccess/opensanshebrewcondensed.css);
+
+html,
+body {
+  height:100%;
+  width:100%;
+    font-family: 'Open Sans Hebrew';
+    font-style:normal;
+    font-weight: 400;
+    background-image: url("../img/bg.jpg");
+    direction: rtl;
+    position: relative;
+    z-index: 1;
+}
+
+/*navbar*/
+nav {
+    background-image: url("../img/bg.jpg");
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li.active a,
+.navbar-default .navbar-nav > li.active a {
+    border-bottom: 1px solid #777777;
+}
+
+/*heaer*/
+
+.header {
+    margin-right: -31px;
+    margin-left: 0px;
+}
+#header-image {
+    background-image: url("../img/PISA_TopBG.jpg");
+    background-position: right top;
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 200px;
+    right: 10px;
+}
+
+#text-image {
+    color: #fff;
+    font-size: 36pt;
+    margin-top: -64px;
+    margin-right: 15px;
+}
+
+#underHeaderText {
+    right: 10px;
+    font-size: 18pt;
+}
+
+.myLinks a, .myLinks a:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
+
+
+#TrumpLogo {
+    width: 80px;
+    position: absolute;
+    left: 10px;
+    padding-top: 2px;
+}
+#IC_logo{
+   width: 185px;
+    position: absolute;
+    left: 100px;
+    padding-top: 6px;
+}
+
+h3{
+    /*color: #777777;*/
+}

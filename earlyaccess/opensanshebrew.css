@@ -1,0 +1,83 @@
+﻿/*
+ * Open Sans Hebrew (Hebrew) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: italic;
+  font-weight: 300;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-LightItalic-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Light.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Light-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Light.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Light.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Italic.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Italic-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Italic.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Italic.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Regular.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Regular-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Regular.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Regular.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: italic;
+  font-weight: 700;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Bold.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-Bold-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Bold.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Bold.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: italic;
+  font-weight: 800;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  font-style: normal;
+  font-weight: 800;
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.eot);
+  src: url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold-1.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.woff2) format('woff2'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.woff) format('woff'),
+       url(../ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.ttf) format('truetype');
+}

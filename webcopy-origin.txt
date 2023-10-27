@@ -1,0 +1,744 @@
+Uri: http://fonts.googleapis.com/earlyaccess/opensanshebrew.css
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\earlyaccess\opensanshebrew.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/earlyaccess/opensanshebrewcondensed.css
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\earlyaccess\opensanshebrewcondensed.css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Light.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Light-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Light.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Light.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Light.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular-1.eot
+Content Type: font/eot
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular.woff
+Content Type: font/woff
+
+Uri: http://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://a.disquscdn.com/next/current/embed/embed.fallback.js
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\next\current\embed\embed.fallback.js
+Content Type: application/javascript
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2016/11/16/djwrns.png
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2016\11\16\djwrns.png
+Content Type: image/png
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2016/11/16/firefox_screenshot_2016-11-16t10-35-33881z.png
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2016\11\16\firefox_screenshot_2016-11-16t10-35-33881z.png
+Content Type: image/png
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2016/11/16/firefox_screenshot_2016-11-16t10-43-16276z.png
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2016\11\16\firefox_screenshot_2016-11-16t10-43-16276z.png
+Content Type: image/png
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2016/11/16/firefox_screenshot_2016-11-16t10-45-18390z.png
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2016\11\16\firefox_screenshot_2016-11-16t10-45-18390z.png
+Content Type: image/png
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/01/classsizeheb.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\01\classsizeheb.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/01/dovratheb.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\01\dovratheb.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/01/pisa-2015-frameworksa.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\01\pisa-2015-frameworksa.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/02/farag_2003.jpg
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\02\farag_2003.jpg
+Content Type: image/jpeg
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/02/farag_2076.jpg
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\02\farag_2076.jpg
+Content Type: image/jpeg
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/08/indeces.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\08\indeces.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/19/netunim.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\19\netunim.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/19/review-education-system-databases.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\19\review-education-system-databases.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/29/-.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\29\-.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/29/edubigdata-ai1-2015.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\29\edubigdata-ai1-2015.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/29/mindcet-big-data-education1.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\29\mindcet-big-data-education1.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/29/pms12_scq_heb.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\29\pms12_scq_heb.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/29/pms12_stq_no_notes-forma_heb.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\29\pms12_stq_no_notes-forma_heb.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/29/scq_pisa2015_ms_heb.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\29\scq_pisa2015_ms_heb.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/29/stq_pisa2015_ms_heb.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\29\stq_pisa2015_ms_heb.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/01/31/pisa-2012-technical-report-final.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\01\31\pisa-2012-technical-report-final.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/02/07/95-hb-f-w.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\02\07\95-hb-f-w.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/05/21/18358878_1465130043554484_1826674145620487970_o.jpg
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\05\21\18358878_1465130043554484_1826674145620487970_o.jpg
+Content Type: image/jpeg
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2017/05/21/ices-7-6-17-1-11.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2017\05\21\ices-7-6-17-1-11.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2018/09/20/-.docx
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2018\09\20\-.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2018/09/20/-ganitrichter.pdf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2018\09\20\-ganitrichter.pdf
+Content Type: application/pdf
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2018/09/20/jwpypg.docx
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2018\09\20\jwpypg.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2018/09/20/tjgpfi.docx
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2018\09\20\tjgpfi.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://opisa1.s3.amazonaws.com/uploads/avnerkantor%40gmail.com/2018/09/20/yoiemp.docx
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\uploads\avnerkantor@gmail.com\2018\09\20\yoiemp.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://tikhinuch.herokuapp.com/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/?page=                                1
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\index-2.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/?page=                                2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\index-1.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/?page=                                3
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\index-3.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/?page=                                4
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\index-4.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/?page=                                5
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\index-5.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/about
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\about.html
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/איך-הופכים-לחוקרי-פיזה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\איך-הופכים-לחוקרי-פיזה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/איך-תדעו-מה-עובד-ומה-עובד-פחות-בחינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\איך-תדעו-מה-עובד-ומה-עובד-פחות-בחינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/בחירת-מדינות-ההשוואה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\בחירת-מדינות-ההשוואה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/ביג-דאטה-יכול-להזניק-את-מערכת-החינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\ביג-דאטה-יכול-להזניק-את-מערכת-החינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/ביג-דטה-בחינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\ביג-דטה-בחינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/במקום-מבחני-פיזה-צריך-להשקיע-בשכבות-החלשות/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\במקום-מבחני-פיזה-צריך-להשקיע-בשכבות-החלשות\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/בת-מצווה-לכוח-המשימה-הלאומי-לקידום-החינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\בת-מצווה-לכוח-המשימה-הלאומי-לקידום-החינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/גורמים-להישגים-הנמוכים-של-תלמידי-ישראל/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\גורמים-להישגים-הנמוכים-של-תלמידי-ישראל\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/דיון-בועדת-המדע-והטכנולוגיה-בכנסת-על-הפערים-בחינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\דיון-בועדת-המדע-והטכנולוגיה-בכנסת-על-הפערים-בחינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/ההישגים-משקפים-את-הפערים-החברתיים-בישראל/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\ההישגים-משקפים-את-הפערים-החברתיים-בישראל\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/היכרות-עם-נתונים-על-מערכת-החינוך-תוך-קריאה-ביקורתית-שלהם/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\היכרות-עם-נתונים-על-מערכת-החינוך-תוך-קריאה-ביקורתית-שלהם\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/הישגים-במדעים-ובמתמטיקה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\הישגים-במדעים-ובמתמטיקה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/הצגות-קרובות-של-פיזה-פתוח/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\הצגות-קרובות-של-פיזה-פתוח\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/הרצאה-בכנס-תובנט/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\הרצאה-בכנס-תובנט\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/חדשנות-במערכת-החינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\חדשנות-במערכת-החינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/חרדים-לחינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\חרדים-לחינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/יותר-מצטיינים-פחות-מתקשים/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\יותר-מצטיינים-פחות-מתקשים\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/כלכלה-קלה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\כלכלה-קלה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/כתבנו-עלינו-בטמקא/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\כתבנו-עלינו-בטמקא\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/מאמץ-במבחני-פיזה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\מאמץ-במבחני-פיזה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/מבחן-פיזה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\מבחן-פיזה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/מהפיכת-החינוך-המדיד/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\מהפיכת-החינוך-המדיד\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/מה-שהממוצעים-לא-מגלים-לנו/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\מה-שהממוצעים-לא-מגלים-לנו\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/מפגש-האגודה-הישראלית-לחקר-החינוך-המשווה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\מפגש-האגודה-הישראלית-לחקר-החינוך-המשווה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/משחקים-דיגיטליים-הזדמנות-ללמידה-אחרת/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\משחקים-דיגיטליים-הזדמנות-ללמידה-אחרת\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/משרד-החינוך-יפרסם-את-המעמד-הסוציו-אקונומי-הממוצע-בכל-בתי-הספר/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\משרד-החינוך-יפרסם-את-המעמד-הסוציו-אקונומי-הממוצע-בכל-בתי-הספר\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/מתי-מתחילים-להשתמש-במחשב-ובאינטרנט/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\מתי-מתחילים-להשתמש-במחשב-ובאינטרנט\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/על-הקשר-בין-גודל-הכיתה-להישגים-לימודיים-בישראל/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\על-הקשר-בין-גודל-הכיתה-להישגים-לימודיים-בישראל\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/עמדות-כלפי-מדע/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\עמדות-כלפי-מדע\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/צונאמי-של-נתונים-במערכת-החינוך/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\צונאמי-של-נתונים-במערכת-החינוך\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/קול-קורא-להגשת-עבודות-לשיפוט-בנושא-מבחן-פיזה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\קול-קורא-להגשת-עבודות-לשיפוט-בנושא-מבחן-פיזה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/קול-קורא-שני-להגשת-עבודות-לשיפוט-בנושא-מבחן-פיזה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\קול-קורא-שני-להגשת-עבודות-לשיפוט-בנושא-מבחן-פיזה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/שאלוני-רקע-לתלמידים-ומנהלים/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\שאלוני-רקע-לתלמידים-ומנהלים\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/תוצאות-פיזה-בראיית-פיאק/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\תוצאות-פיזה-בראיית-פיאק\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/תקן-isced-לרמת-השכלה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\תקן-isced-לרמת-השכלה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/תקנון-תחרות-מבחן-פיזה/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\תקנון-תחרות-מבחן-פיזה\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/תשובה-למאמרו-של-עמי-וולנסקי/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\תשובה-למאמרו-של-עמי-וולנסקי\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/big-data-education/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\big-data-education\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/data-journalism-bibliography/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\data-journalism-bibliography\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/data-journalism/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\data-journalism\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/evidence-based-education/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\evidence-based-education\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/inspiration/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\inspiration\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/pisa-2015-questionnaires/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\pisa-2015-questionnaires\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/pisa-analysis-r/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\pisa-analysis-r\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/pisa-articles/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\pisa-articles\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/pisa-bigdata/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\pisa-bigdata\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/pisa-research/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\pisa-research\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/pisa-visualisation-projects/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\pisa-visualisation-projects\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/post/vתנסות-בסטטיסטיקה-חינוכית/
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\post\vתנסות-בסטטיסטיקה-חינוכית\index.htm
+Content Type: text/html
+
+Uri: https://tikhinuch.herokuapp.com/static/css/bootstrap-rtl.min.css
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\css\bootstrap-rtl.min.css
+Content Type: text/css
+
+Uri: https://tikhinuch.herokuapp.com/static/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tikhinuch.herokuapp.com/static/css/custom.css
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\css\custom.css
+Content Type: text/css
+
+Uri: https://tikhinuch.herokuapp.com/static/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tikhinuch.herokuapp.com/static/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tikhinuch.herokuapp.com/static/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://tikhinuch.herokuapp.com/static/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://tikhinuch.herokuapp.com/static/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://tikhinuch.herokuapp.com/static/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://tikhinuch.herokuapp.com/static/img/bag-512.png
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\img\bag-512.png
+Content Type: image/png
+
+Uri: https://tikhinuch.herokuapp.com/static/img/bg.jpg
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://tikhinuch.herokuapp.com/static/img/IC_logo.png
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\img\IC_logo.png
+Content Type: image/png
+
+Uri: https://tikhinuch.herokuapp.com/static/img/PISA_TopBG.jpg
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\img\PISA_TopBG.jpg
+Content Type: image/jpeg
+
+Uri: https://tikhinuch.herokuapp.com/static/img/Trump-logo.png
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\img\Trump-logo.png
+Content Type: image/png
+
+Uri: https://tikhinuch.herokuapp.com/static/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tikhinuch.herokuapp.com/static/js/html5shiv.min.js
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\js\html5shiv.min.js
+Content Type: application/javascript
+
+Uri: https://tikhinuch.herokuapp.com/static/js/jquery.js
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://tikhinuch.herokuapp.com/static/js/respond.min.js
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\static\js\respond.min.js
+Content Type: application/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\Downloaded Web Sites\tikhinuch.herokuapp.com\analytics.js
+Content Type: text/javascript
+
